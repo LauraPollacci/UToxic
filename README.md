@@ -1,11 +1,7 @@
-# project_PIANO
-Python code for thesis, PIANO project
-The files can be grouped in three parts:
-
-1) comment-related files: PIANO_feature_comments, PIANO_clustering_comments and PIANO_textual analysis, that create new features for the comments, apply clustering and analyze textual characteristics respectively
-2) PIANO_comment_aggregation: aggregation of comments per users by four aggregation measures (sum, mean, max and min)
-3) user-related files: PIANO_author_label (definition of toxic authors), PIANO_classification_binary and no-toxic (binary classification and explanation, both including and removing toxicity features) PIANO_classification_5_SMOTE and no-toxic (multi-class single label classification and explanation, both including and removing toxicity features)
+# UTOXIC: User TOxic eXplainable Identification and Characterization 
+This repository contains the source code of UToxic (User TOxic eXplainable Identification and Characterization) presented in the paper "An Interpretable Data-Driven Approach for
+Modeling Toxic Users Via Feature Extraction". This code has been used to carry on the experiemnts of the paper
+    Pollacci, L., Gneri, J., Guidotti, R. (2025). XAI 2024. An Interpretable Data-Driven Approach for Modeling Toxic Users Via Feature Extraction. The 3rd World Conference on eXplainable Artificial Intelligence (XAI-2025)
     
-     
 
 
